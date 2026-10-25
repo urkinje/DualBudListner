@@ -1,14 +1,8 @@
-# compose-app-template 🤖
+# DualBudListner
 
-[![Use this template](https://img.shields.io/badge/from-compose--app--template-brightgreen?logo=dropbox)](https://github.com/rhenwinch/compose-app-template/generate) ![Pre Merge Checks](https://github.com/rhenwinch/compose-app-template/workflows/Pre%20Merge%20Checks/badge.svg) ![License](https://img.shields.io/github/license/rhenwinch/compose-app-template.svg) ![Language](https://img.shields.io/github/languages/top/rhenwinch/compose-app-template?color=blue&logo=kotlin)
+![Build](https://github.com/urkinje/DualBudListner/workflows/APK%20Release%20CI/badge.svg)
 
-A multi-module compose app Github template that lets you create an **Android/Kotlin** project and be up and running in a **few seconds**.
-
-This template is focused on delivering a project with **static analysis** and **continuous integration** already in place.
-
-## How to use 👣
-
-Just click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/rhenwinch/compose-app-template/generate) button to create a new repo starting from this template.
+A native android application built on top of Jetpack Compose.
 
 ## Features 🎨
 

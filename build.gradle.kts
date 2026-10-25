@@ -33,6 +33,3 @@ private fun String.isNonStable(): Boolean {
     val isStable = stableKeyword || regex.matches(this)
     return isStable.not()
 }
-
-val cleanupScript = "build-logic/src/main/kotlin/tool/cleanup.gradle.kts"
-if (File(rootDir, cleanupScript).exists()) apply(cleanupScript)

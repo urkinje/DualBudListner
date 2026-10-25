@@ -18,7 +18,7 @@ dependencyResolutionManagement {
 }
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
-rootProject.name = ("compose-app-template")
+rootProject.name = ("DualBudListner")
 
 include(":app")
 

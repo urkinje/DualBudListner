@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 object ProjectVersions {
     object Android {
-        const val APP_ID = "com.example.template"
+        const val APP_ID = "com.urkinje.dualbudlistner"
 
         const val APP_VERSION_MAJOR = 1
         const val APP_VERSION_MINOR = 0
